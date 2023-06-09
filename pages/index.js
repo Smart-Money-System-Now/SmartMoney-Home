@@ -119,7 +119,7 @@ export default function Home() {
             Desarrollado con tecnologías web 3.0, lo que coloca a nuestra empresa a la vanguardia. 
             Además, este marco de trabajo nos permite utilizar una de las herramientas informáticas más 
             innovadoras: la Cadena de Bloques (Blockchain). Con ella, respaldaremos todo lo relacionado 
-            con el Smart Coin y nuesto ecosistema Finaciero.
+            con el Smart Coin y nuesto ecosistema Financiero.
             <br></br>
             <br></br>
             ¡Estamos emocionados por lo que el futuro nos depara y compartirlo con toda nuestra comunidad!
